@@ -1,1 +1,1 @@
-# 1st-JS-Homework
+# 1st_JS_Project
